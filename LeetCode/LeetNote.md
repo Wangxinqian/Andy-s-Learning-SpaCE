@@ -1,1 +1,39 @@
-# ww 
+# 2. Add Two Numbers
+## Original Solution
+```python
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        def TakeList(ListNode,b):
+            b.append(ListNode.val)
+            if ListNode.next==None:
+                return b
+            else:
+                return TakeList(ListNode.next,b)
+        l1 = TakeList(l1,[])
+        l2 = TakeList(l2,[])
+        l1_new = [str(x) for x in l1]
+        l2_new = [str(x) for x in l2]
+        l1_new.reverse()
+        l2_new.reverse()
+        l1_completed=''.join(l1_new)
+        l2_completed=''.join(l2_new)
+        l3 = str(int(l1_completed)+int(l2_completed))
+        l4 = list(l3)
+        l4.reverse()
+        l4 = list(map(int, l4))
+        OriginalNode = ListNode(l4[-1],None)
+        l5 = l4[:-1]
+        def ConList(CurrentNode,x):
+            if len(x)==0:
+                return CurrentNode
+            else:
+                NewNode = ListNode(int(x[-1]),CurrentNode)
+                return ConList(NewNode,x[:-1])
+        Answer = ConList(OriginalNode,l5)
+        return Answer
+```
