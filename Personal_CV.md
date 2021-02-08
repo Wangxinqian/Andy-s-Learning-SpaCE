@@ -15,6 +15,7 @@
    -  [LeetCode Learning](/LeetCode)
    -  [Book_Problem Solving with Algorithms and Data Structures(2nd Edition)_Brad Miller and David Ranum](https://runestone.academy/runestone/books/published/pythonds/index.html)
 ### Machine Learning
+   -  [2009_Book_The Elements of Statistic Learning_Trevor Hastie](https://web.stanford.edu/~hastie/ElemStatLearn/)
    -  [Book_2016_Watermelon Book(西瓜书)_Zhihua Zhou](https://www.amazon.com/Machine-Learning-Chinese-Zhou-Zhihua/dp/7302423288)
    -  [MIT's online course about Deep Learning](http://introtodeeplearning.com/)
 ### Linear Algebra Learning
