@@ -11,7 +11,7 @@
 > ##### Arranged by date, some vital experiences are attached with a symbol of "*"
 
 ### CESS7030: Introduction to Introduction to Software Engineering
-#### Minesweeper Game, involving the utilization of python's fundemental data structures
+#### Simple Minesweeper Game, involving the utilization of python's fundemental data structures
 #### Pipe Game, involving the knowledge of python class's Inheritance
 #### Minesweeper Game, involving the knowledge of Graphical User Interface
 ### MATH7232: Operations Research & Mathematical Planning*
