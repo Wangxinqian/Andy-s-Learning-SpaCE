@@ -24,7 +24,7 @@
 ### DATA7703: Machine Learning for Data Scientists*
 ### MATH7502: Mathematics for Data Science 2
 #### Final Project: Select Mathmetic Topics And Explain
-  -  [Gradient Descent](/MATH7502/Xinqian_Wang_s4565489-Project_Topic11)
+  -  [Gradient Descent](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
