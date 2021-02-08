@@ -25,6 +25,8 @@
 ### MATH7502: Mathematics for Data Science 2
 #### Final Project: Select Mathmetic Topics And Explain
   -  [Gradient Descent](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
+  -  [Multi-objective Least Squares](Math7502/Xinqian_Wang_s4565489-Project_Topic5.pdf)
+  -  [Multivariate Gaussian Distributions and Weighted Least Squares](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
