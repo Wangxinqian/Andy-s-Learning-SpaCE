@@ -12,8 +12,11 @@
 
 ### CESS7030: Introduction to Introduction to Software Engineering
 #### Simple Minesweeper Game, involving the utilization of python's fundemental data structures
+  -  [Code](CESS7030/Simple Minesweeper Game/a1.py)
 #### Pipe Game, involving the knowledge of python class's Inheritance
+  -  [Code](CESS7030/Pipe Game/a2.py)
 #### Minesweeper Game, involving the knowledge of Graphical User Interface
+  -  [Code*](CESS7030/Minesweeper Game/a3_FinalVersion.py)
 ### MATH7232: Operations Research & Mathematical Planning*
 #### Mixed Integer Linear Programming Problem: Transporation Problem
   -  Report
