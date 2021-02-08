@@ -12,5 +12,8 @@
 ## Interested Topics
 1. Optimization
    -  Sports Scheduling
-2. James Monroe
-3. John Quincy Adams
+   -  Vehicle Scheduling
+   -  Integer Programming
+2. Machine Learning
+   -  Computer Vision
+   -  Relevant Algorithms
