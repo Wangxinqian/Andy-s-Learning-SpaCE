@@ -7,7 +7,7 @@
 ## Education
 ### University of Queensland
 #### Master of Data Science(2020.2-2021.11)
-## Academic Experiences
+## Academic Accomplishments
 > ##### Arranged by date, some vital experiences are attached with a symbol of "*"
 
 ### CESS7030: Introduction to Introduction to Software Engineering
@@ -16,6 +16,15 @@
 #### Minesweeper Game, involving the knowledge of Graphical User Interface
 ### MATH7232: Operations Research & Mathematical Planning*
 #### Mixed Integer Linear Programming Problem: Transporation Problem
+  -  Report
+  -  Report
+#### Dynamic Programming Problem: Calculate the Expectation-Maximization
+  -  Report
+### MATH7202: Advanced Topics in Operations Research*
+### DATA7703: Machine Learning for Data Scientists*
+### MATH7502: Mathematics for Data Science 2
+#### Final Project: Select Mathmetic Topics And Explain
+  -  [Gradient Descent](/MATH7502: Mathematics for Data Science 2/Xinqian_Wang_s4565489-Project_Topic11.pdf)
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
