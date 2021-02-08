@@ -10,11 +10,8 @@
 [访问 Wow!Ubuntu](http://wowubuntu.com)
 
 ## Currently Focusing On
-1. Python Algorithms and Data Structures
-   -  Sports Scheduling
-   -  Vehicle Scheduling
 ### Python Algorithms and Data Structures
-   -  Sports Scheduling
+   -  LeetCode Learning
    -  Vehicle Scheduling
 ## Interested Topics
 ### Optimization
