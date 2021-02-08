@@ -34,6 +34,8 @@
   -  [Code*](Data7703/XinqianWang_s4565489_A1_ML/Data7703_A1.py)
 #### Facial Recognization with PCA
   -  [Code*](Data7703/XinqianWang_s4565489_A2_ML/A2.ipynb)
+#### My First Pytorch Model(In the 4th page of the pdf)
+  -  [PDF](Data7703/XinqianWang_4565489_a4_My First Pytorch Model.pdf)
 ### MATH7502: Mathematics for Data Science 2
 #### Final Project: Select Mathmetic Topics And Explain
   -  [Gradient Descent](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
