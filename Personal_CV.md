@@ -14,7 +14,8 @@
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
    -  [Book_Problem Solving with Algorithms and Data Structures(2nd Edition)_Brad Miller and David Ranum](https://runestone.academy/runestone/books/published/pythonds/index.html)
-### Machine
+### Machine Learning
+   -  [Book_2016_Watermelon Book(西瓜书)_Zhihua Zhou](https://www.amazon.com/Machine-Learning-Chinese-Zhou-Zhihua/dp/7302423288)
    -  [MIT's online course about Deep Learning](http://introtodeeplearning.com/)
 ### Linear Algebra Learning
    -  [Book_2019_Linear Algebra And Learning From Data_Gilbert Strang](https://math.mit.edu/~gs/learningfromdata/)
