@@ -13,7 +13,8 @@
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
-### [MIT Deep Learning](http://introtodeeplearning.com/)
+### MIT Deep Learning
+   -  [MIT's online course about Deep Learning](http://introtodeeplearning.com/)
 ### Linear Algebra Learning
    -  [Book_2019_Linear Algebra And Learning From Data_Gilbert Strang](https://math.mit.edu/~gs/learningfromdata/)
    -  [Book_2017_Numerical Linear Algebra An Introduction_Holger Wendland](https://books.google.com.au/books/about/Numerical_Linear_Algebra.html?id=4-k4DwAAQBAJ&redir_esc=y)
