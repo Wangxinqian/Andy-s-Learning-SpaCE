@@ -19,11 +19,11 @@
   -  [Code*](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/CESS7030/Minesweeper%20Game/a3_FinalVersion.py)
 ### MATH7232: Operations Research & Mathematical Planning*
 #### Mixed Integer Linear Programming Problem: Transporation Problem
-  -  [Code](None)
-  -  [Code](None)
+  -  [Linear Programming Boss and Client Report](Math7232/ReportByXinqianWang.pdf)
+  -  [Integer Programming Boss Report](Math7232/PacficParadise_communication9.pdf)
 #### Dynamic Programming Problem: Calculate the Expectation-Maximization
-  -  [Report to Boss](Math7232/a3_BossReport.pdf)
-  -  [Report to Client](Math7232/a3_ClientReport.pdf)
+  -  [Boss Report](Math7232/a3_BossReport.pdf)
+  -  [Client Report](Math7232/a3_ClientReport.pdf)
 ### MATH7202: Advanced Topics in Operations Research*
 #### Vehical Scheduling Paper 
   -  [Prototype Paper](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/Math7202/Group%20paper_The%20Vehicle%20Scheduling%20Problem%20for%20Fleets%20with%20Alternative-Fuel%20Vehicles.pdf)
