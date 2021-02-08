@@ -3,12 +3,14 @@
 ##### Call: 0435574757
 ##### Email: xinqian.wang@uqconnect.edu.au
 ##### Last Update: 08/02/2021
+/
 ## Education
 ### University of Queensland
 #### Master of Data Science(2020.2-2021.11)
 ## Academic Experiences
 > ##### Arranged by date, some vital experiences are attached with a symbol of "*"
 
+### CESS7030: Introduction to Introduction to Software Engineering
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
