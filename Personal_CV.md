@@ -17,10 +17,10 @@
    -  Sports Scheduling
    -  Vehicle Scheduling
 ## Interested Topics
-1. Optimization
+### Optimization
    -  Sports Scheduling
    -  Vehicle Scheduling
    -  Integer Programming
-2. Machine Learning
+### Machine Learning
    -  Computer Vision
    -  Relevant Algorithms
