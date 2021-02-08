@@ -30,6 +30,10 @@
   -  [Group Report*](Math7202/Math7202_Vehicle_Scheduling_Report.pdf)
   -  [Code*](Math7202/Code)
 ### DATA7703: Machine Learning for Data Scientists*
+#### Decision Tree
+  -  [Code*](Data7703/XinqianWang_s4565489_A1_ML/Data7703_A1.py)
+#### Facial Recognization with PCA
+  -  [Code*](Data7703/XinqianWang_s4565489_A2_ML/A2.ipynb)
 ### MATH7502: Mathematics for Data Science 2
 #### Final Project: Select Mathmetic Topics And Explain
   -  [Gradient Descent](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
