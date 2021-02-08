@@ -13,6 +13,8 @@
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
 ### [MIT Deep Learning](http://introtodeeplearning.com/)
+### Linear Algebra Learning
+   -  
 ## Interested Topics
 ### Optimization
    -  Sports Scheduling
