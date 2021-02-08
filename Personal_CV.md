@@ -7,7 +7,7 @@
 ### University of Queensland
 #### Master of Data Science(2020.2-2021.11)
 ## Academic Experiences
-> ##### Arranged by date, some vital experiences are attached with a symbol of **"*"**
+> ##### Arranged by date, some vital experiences are attached with a symbol of "*"
 ### 
 
 ## Currently Focusing On
