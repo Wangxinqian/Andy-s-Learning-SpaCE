@@ -5,3 +5,11 @@
 ## Education
 ### University of Queensland
 #### Master of Data Science(2020.2-2021.11)
+## Academic Accomplishments
+
+
+## Currently Focusing On
+## Interested Topics
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
