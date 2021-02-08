@@ -23,6 +23,7 @@
 ### MATH7202: Advanced Topics in Operations Research*
 #### Vehical Scheduling Paper 
   -  [Paper Prototype](Math7202/Group paper_The Vehicle Scheduling Problem for Fleets with Alternative-Fuel Vehicles.pdf)
+  -  [Paper Prototype](Math7202/Group paper_The Vehicle Scheduling Problem for Fleets with Alternative-Fuel Vehicles.pdf)
   -  [Group Report*](Math7202/Math7202_Vehicle_Scheduling_Report.pdf)
   -  [Code*](Math7202/Code)
 ### DATA7703: Machine Learning for Data Scientists*
