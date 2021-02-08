@@ -11,7 +11,7 @@
 
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
-   -  LeetCode Learning
+   -  [LeetCode Learning](docs/LeetCode)
    -  Vehicle Scheduling
 ## Interested Topics
 ### Optimization
