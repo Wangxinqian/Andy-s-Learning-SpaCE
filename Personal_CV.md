@@ -24,7 +24,7 @@
 #### Dynamic Programming Problem: Calculate the Expectation-Maximization
   -  [Boss Report](Math7232/a3_BossReport.pdf)
   -  [Client Report](Math7232/a3_ClientReport.pdf)
-### MATH7202: Advanced Topics in Operations Research*
+### MATH7202: Advanced Topics in Operations Research**
 #### Vehical Scheduling Paper 
   -  [Prototype Paper](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/Math7202/Group%20paper_The%20Vehicle%20Scheduling%20Problem%20for%20Fleets%20with%20Alternative-Fuel%20Vehicles.pdf)
   -  [Group Report*](Math7202/Math7202_Vehicle_Scheduling_Report.pdf)
