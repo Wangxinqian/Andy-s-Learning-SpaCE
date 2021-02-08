@@ -14,6 +14,8 @@
 #### Minesweeper Game, involving the utilization of python's fundemental data structures
 #### Pipe Game, involving the knowledge of python class's Inheritance
 #### Minesweeper Game, involving the knowledge of Graphical User Interface
+### MATH7232: Operations Research & Mathematical Planning*
+#### Mixed Integer Linear Programming Problem: Transporation Problem
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
