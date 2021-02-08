@@ -3,7 +3,7 @@
 ##### Call: 0435574757
 ##### Email: xinqian.wang@uqconnect.edu.au
 ##### Last Update: 08/02/2021
-/
+
 ## Education
 ### University of Queensland
 #### Master of Data Science(2020.2-2021.11)
@@ -11,6 +11,9 @@
 > ##### Arranged by date, some vital experiences are attached with a symbol of "*"
 
 ### CESS7030: Introduction to Introduction to Software Engineering
+#### Minesweeper Game, involving the utilization of python's fundemental data structures
+#### Pipe Game, involving the knowledge of python class's Inheritance
+#### Minesweeper Game, involving the knowledge of Graphical User Interface
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
