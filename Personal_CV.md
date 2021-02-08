@@ -12,9 +12,9 @@
 
 ### CESS7030: Introduction to Introduction to Software Engineering
 #### Simple Minesweeper Game, involving the utilization of python's fundemental data structures
-  -  [Code*](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/CESS7030/Simple%20Minesweeper%20Game/a1.py)
+  -  [Code](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/CESS7030/Simple%20Minesweeper%20Game/a1.py)
 #### Pipe Game, involving the knowledge of python class's Inheritance
-  -  [Code*](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/CESS7030/Pipe%20Game/a2.py)
+  -  [Code](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/CESS7030/Pipe%20Game/a2.py)
 #### Minesweeper Game, involving the knowledge of Graphical User Interface
   -  [Code*](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/CESS7030/Minesweeper%20Game/a3_FinalVersion.py)
 ### MATH7232: Operations Research & Mathematical Planning*
