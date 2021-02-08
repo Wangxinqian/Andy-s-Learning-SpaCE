@@ -10,6 +10,7 @@
 
 ## Currently Focusing On
 ## Interested Topics
-1. James Madison
+1. Optimization
+   -  Sports Scheduling
 2. James Monroe
 3. John Quincy Adams
