@@ -4,11 +4,13 @@
 ##### Email: xinqian.wang@uqconnect.edu.au
 ##### Last Update: 08/02/2021
 
+
 ## Education
 ### University of Queensland
 #### Master of Data Science(2020.2-2021.11)
 ## Academic Accomplishments
 > ##### Arranged by date, some vital experiences are attached with a symbol of "*"
+
 
 ### CESS7030: Introduction to Introduction to Software Engineering
 #### Simple Minesweeper Game, involving the utilization of python's fundemental data structures
@@ -35,12 +37,15 @@
 #### Facial Recognization with PCA
   -  [Code*](Data7703/XinqianWang_s4565489_A2_ML/A2.ipynb)
 #### My First Pytorch Model(In the 4th page of the pdf)
-  -  [PDF](Data7703/XinqianWang_4565489_a4_My First Pytorch Model.pdf)
+  -  [PDF](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/Data7703/XinqianWang_4565489_a4_My%20First%20Pytorch%20Model.pdf)
 ### MATH7502: Mathematics for Data Science 2
 #### Final Project: Select Mathmetic Topics And Explain
   -  [Gradient Descent](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
   -  [Multi-objective Least Squares](Math7502/Xinqian_Wang_s4565489-Project_Topic5.pdf)
   -  [Multivariate Gaussian Distributions and Weighted Least Squares](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
+
+
+
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
@@ -52,6 +57,9 @@
 ### Linear Algebra Learning
    -  [Book_2019_Linear Algebra And Learning From Data_Gilbert Strang](https://math.mit.edu/~gs/learningfromdata/)
    -  [Book_2017_Numerical Linear Algebra An Introduction_Holger Wendland](https://books.google.com.au/books/about/Numerical_Linear_Algebra.html?id=4-k4DwAAQBAJ&redir_esc=y)
+
+
+
 ## Interested Topics
 ### Optimization
    -  Sports Scheduling
