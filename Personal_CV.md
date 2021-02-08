@@ -6,7 +6,7 @@
 ### University of Queensland
 #### Master of Data Science(2020.2-2021.11)
 ## Academic Accomplishments
-
+[访问 Wow!Ubuntu](http://wowubuntu.com)
 
 ## Currently Focusing On
 ## Interested Topics
