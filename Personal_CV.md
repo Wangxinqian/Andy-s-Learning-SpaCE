@@ -12,7 +12,7 @@
 ## Currently Focusing On
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
-   -  Vehicle Scheduling
+### [MIT Deep Learning](http://introtodeeplearning.com/)
 ## Interested Topics
 ### Optimization
    -  Sports Scheduling
