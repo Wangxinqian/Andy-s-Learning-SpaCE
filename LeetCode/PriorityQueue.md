@@ -1,7 +1,6 @@
 # PriorityQueue
 
-
-''' python
+``` python
 import heapq
 
 class PriorityQueue:
@@ -15,5 +14,4 @@ class PriorityQueue:
 
     def pop(self):
         return heapq.heappop(self._queue)[-1]
-        
-'''
+```
