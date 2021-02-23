@@ -50,7 +50,7 @@
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
 ### Pytorch Learning
-   -  [Updating in the future]
+   -  [Updating in the future](Pytorch Learning/)
 ## Past Concentration(Nov.2020-Feb.2021)
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
