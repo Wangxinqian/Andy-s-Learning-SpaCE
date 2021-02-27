@@ -14,6 +14,6 @@ The file is created at 2th,22,2021 which used to save my learning path with pyto
   
   2019_PyTorch Recipes_03_RNN.ipynb
   
-  2019_PyTorch Recipes_03_11.ipynb
+  2019_PyTorch Recipes_03_11-13.ipynb
 ## Data7703 Pytorch
   Data7703_Pytorch_Assessment.ipynb
