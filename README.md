@@ -12,6 +12,11 @@
 > ##### Arranged by date, some vital experiences are attached with a symbol of "*"
 
 
+### Data7901: Data Science Capstone Project 1: Burn Wound Image Classiication
+#### Seminar Presentation
+  -  [PPT](DATA7901/Presentation/DATA7901_Seminar_4565489_Xinqian Wang.pdf)
+#### Simple Minesweeper Game, involving the utilization of python's fundemental data structures
+  -  [Code](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/CESS7030/Simple%20Minesweeper%20Game/a1.py)
 ### CESS7030: Introduction to Introduction to Software Engineering
 #### Simple Minesweeper Game, involving the utilization of python's fundemental data structures
   -  [Code](https://github.com/Wangxinqian/Andy-s-Learning-SpaCE/blob/main/CESS7030/Simple%20Minesweeper%20Game/a1.py)
