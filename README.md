@@ -49,7 +49,7 @@
 
 
 
-## Currently Focusing On
+## Previous Focusing On(Feb.2021-April.2021)
 ### Python Algorithms and Data Structures
    -  [LeetCode Learning](/LeetCode)
 ### Pytorch Learning
