@@ -1,0 +1,40 @@
+
+first page
+54-28-20-24
+色号 全黑 和 第三列 中间 的灰色
+对齐方式， 整体居中
+
+second page
+32 下划线
+28 加粗
+20 标题
+1.5 行距
+暗红色下划线
+第三列 中间 的灰色
+对齐方式， 除了小标题外，整体居中
+
+third page
+Third Page approach
+新增绿色 边框
+	image pre-processing / Data Augmentation / Network Building / Training / Testing / Evaluating Transfer Learning / 
+
+Related Work
+说清楚,   是谁用了什么, 去做了什么事情, 他的创新点是
+Research of Breast Cancer Multi-classification(是谁)，
+achieved by using class structure-based deep convolutional neural network  (CSDCNN)（通过什么东西实现）
+（做了什么事情）
+
+Description/Title/Source
+
+
+
+Problem Definition
+Motivation
+Dataset
+Approches
+Related Work
+Conclusion
+Future Plan
+
+对齐方式， 整体居中
+标点不沾下划线和颜色

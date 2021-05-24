@@ -1,0 +1,30 @@
+开头术语: Hi everyone, please try to think one scenario
+介绍情景:
+A person, who is getting burnned by something, has been sent into one hospital immediately.
+However, he still missed the perfect time for the medical treatment, 
+	because a lot of time is wasted when the doctor is trying to analysizing his burn wounds.
+转场：
+The situation mentioned above, is just my project is going to solve such difficulties.
+说Project Definition
+
+第一页开场:
+First of all, I just would like to introduce the workflow of our algorithm.
+从左往右，运用手势，陈述算法的流程。其中，对于中间卷积的描述如下：
+In the middle step, we add mathematical transformation for certain block of pixels.
+Such transformation would deliever important information which is helpful for the algorithm to make judgement, judgement of which burn type.
+We call this process feature extraction
+
+第二页开场：
+After introducing the workflow, I m going to show you how exactly we are going to achieve it...
+介绍 迁移学习的时候要说:
+For building better algorithm, we need to involve some other popular topics of deep learning, which is....
+Basically, we will use a pre-trained model to see if we can get better solution
+介绍完流程要说：
+There are 6 procedures, we need to do it over and over again until we get satisfied with the model
+
+第三页 ： 跳过
+
+第四页， 开场
+Before the conclusion, I would like to talk about some previous researches
+First,
+Second,
