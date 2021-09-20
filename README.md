@@ -48,11 +48,14 @@
   -  [Multivariate Gaussian Distributions and Weighted Least Squares](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
 ### DATA7202: Statistical Methods for Data Science
 #### Statistical Model
-  -  [Linear_Regression PDF](DATA7202/DATA7202_A1/DATA7202_A1_s4565489_XinqianWang.pdf)
-  -  [Sampling_Strategy PDF](DATA7202/DATA7202_A2/DATA7202_A2_s4565489_XinqianWang.pdf)
-  -  [Queue_Theory      PDF](DATA7202/DATA7202_A4/Data7202_A4_s4565489_XinqianWang.pdf)
-  -  [Queue_Theory     Code](DATA7202/DATA7202_A4/Data7202_A4_s4565489_XinqianWang.ipynb)
-### DATA7202: Statistical Methods for Data Science
+  -  [Linear Regression PDF](DATA7202/DATA7202_A1/DATA7202_A1_s4565489_XinqianWang.pdf)
+  -  [Sampling Strategy PDF](DATA7202/DATA7202_A2/DATA7202_A2_s4565489_XinqianWang.pdf)
+#### Queue Theory
+  -  [Queue Theory      PDF](DATA7202/DATA7202_A4/Data7202_A4_s4565489_XinqianWang.pdf)
+  -  [Queue Theory     Code](DATA7202/DATA7202_A4/Data7202_A4_s4565489_XinqianWang.ipynb)
+### INFS7450: Social Media Analytics
+  -  [Blandes Algorithm Code](INFS7450/Project_1/45654897.py)
+  -  [Link Prediction   Code](INFS7450/Project_2/45654897.ipynb)
 
 
 ## Previous Focusing On(Feb.2021-April.2021)
