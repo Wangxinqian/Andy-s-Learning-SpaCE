@@ -46,6 +46,10 @@
   -  [Gradient Descent](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
   -  [Multi-objective Least Squares](Math7502/Xinqian_Wang_s4565489-Project_Topic5.pdf)
   -  [Multivariate Gaussian Distributions and Weighted Least Squares](Math7502/Xinqian_Wang_s4565489-Project_Topic11.pdf)
+### DATA7202: Statistical Methods for Data Science
+#### Statistical Model
+  -  [Linear_Regression PDF](DATA7202/DATA7202_A1/DATA7202_A1_s4565489_XinqianWang.pdf)
+  -  [Sampling_Strategy PDF](DATA7202/DATA7202_A2/DATA7202_A2_s4565489_XinqianWang.pdf)
 
 
 
