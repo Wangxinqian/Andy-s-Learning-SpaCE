@@ -12,11 +12,11 @@
 > ##### Three things I would always talk to people with my two-years' accomplishments in UQ.
 1. **Computer Vision**
 
-  I learned many classification models during this journey.
+  I learned many classification models, such as AlexNet, VGG, ResNet, DenseNet and SimCLR..., during this journey.
   
 2. **Optimization Research**
   
-  I modeled a vehical problem with a reference to a very good paper and kept improving the operation speed.
+  I modeled a vehical problem(cars, petrol stations, customer stations, and deports) with a reference from a very good paper and kept improving the operation speed(with assistance to dual variable).
   
 3. **Probability Statistics**
   
