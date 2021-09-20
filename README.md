@@ -10,9 +10,12 @@
 #### Master of Data Science(2020.2-2021.11)
 ## Academic Highlights
 > ##### Three things I would always talk to people with my two-years' accomplishments in UQ.
-1. Computer Vision: I learned many classification models during this journey.
-2. Optimization Research: I modeled a vehical problem with a reference to a very good paper and kept improving the operation speed.
-3. probability statistics: I wrote code and watched vedio to learn some statistical models like MCMC, E-M, Dirichlet Process... during my vocation.
+1. Computer Vision: 
+  I learned many classification models during this journey.
+2. Optimization Research
+  I modeled a vehical problem with a reference to a very good paper and kept improving the operation speed.
+3. probability statistics
+  I wrote code and watched vedio to learn some statistical models like MCMC, E-M, Dirichlet Process... during my vocation.
 ## Academic Accomplishments
 > ##### Arranged by date, some vital experiences are attached with a symbol of "*"
 
