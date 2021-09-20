@@ -50,7 +50,9 @@
 #### Statistical Model
   -  [Linear_Regression PDF](DATA7202/DATA7202_A1/DATA7202_A1_s4565489_XinqianWang.pdf)
   -  [Sampling_Strategy PDF](DATA7202/DATA7202_A2/DATA7202_A2_s4565489_XinqianWang.pdf)
-
+  -  [Queue_Theory      PDF](DATA7202/DATA7202_A4/Data7202_A4_s4565489_XinqianWang.pdf)
+  -  [Queue_Theory     Code](DATA7202/DATA7202_A4/Data7202_A4_s4565489_XinqianWang.ipynb)
+### DATA7202: Statistical Methods for Data Science
 
 
 ## Previous Focusing On(Feb.2021-April.2021)
