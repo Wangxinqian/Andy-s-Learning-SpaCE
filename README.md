@@ -8,6 +8,12 @@
 ## Education
 ### University of Queensland
 #### Master of Data Science(2020.2-2021.11)
+## Academic Highlights
+> ##### Three things I would always talk to people with my two-years' accomplishments in UQ.
+1. Computer Vision
+2. Optimization Research
+3. probability statistics
+I learned
 ## Academic Accomplishments
 > ##### Arranged by date, some vital experiences are attached with a symbol of "*"
 
